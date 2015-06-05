@@ -10,11 +10,11 @@
 
 For 137 of the 219 years the country since its independence, US has had a military veteran as a president. 29 of its 43 presidents have been veterans. And the longest time America has gone without electing a veteran was the 32 year period starting with Taft in 1913 and ending with Roosevelt’s death in 1945. (Incredibly, during this time, the country took part in the two World Wars.) [Related article](http://gbytes.gsood.com/2008/04/23/military-experience-of-us-presidents-1789-%E2%80%93-2008/)
 
-**Data on Military Experience of US Presidents** 
+**Data:** Military Experience of US Presidents: [From George Washington till Barack Obama (csv)](USPresMilExp.csv). 
 
-[From George Washington till Barack Obama (csv)](USPresMilExp.csv). Column names and their description: 
+Column names and their description: 
 
-| Colulmn Name   	  | Description   | 
+| Column Name   	  | Description   | 
 | --------------------|---------------|
 | ID      			  | Unique ID 	|
 | President Number    | Number in sequence of unique presidents since founding     |
@@ -34,9 +34,13 @@ There are three potential concerns about the numbers. Eight years of George W. B
 
 #### Military Experience of UK Prime Ministers
 
-[From Robert Walpole till Gordon Brown  (csv)](UKPMMilExp.csv). Column names and their description: 
+![Military Experience of UK PMs](ukmil.png)
 
-| Colulmn Name   	  | Description   | 
+**Data:** Military Experience of UK Prime Ministers: [From Robert Walpole till Gordon Brown (csv)](UKPMMilExp.csv). 
+
+Column names and their description: 
+
+| Column Name   	  | Description   | 
 | --------------------|---------------|
 | ID      			  | Unique ID 	|
 | Name  		  	  | Name of the prime minister|
@@ -57,7 +61,7 @@ There are three potential concerns about the numbers. Eight years of George W. B
 
 #### Graph of Military Experience of UK PMs
 * [R Code to generate the graph](mil_plots.R)
-* [Graph](ukmil.pdf)
+* [Graph (pdf)](ukmil.pdf)
 
 ### License
 Released under the [Creative Commons License](License.md).
