@@ -1,8 +1,10 @@
 ### Military Experience of US Presidents and UK Prime Ministers
 
-* [Military Experience of US Presidents](#military-experience-of-us-presidents)
-* [Military Experience of UK Prime Ministers](#military-experience-of-uk-prime-ministers)
-* [Graph of Military Experience of UK PMs](#graph-of-military-experience-of-uk-pms)
+* [Military Experience of US Presidents](military-experience##military-experience-of-us-presidents)
+* [Military Experience of UK Prime Ministers](military-experience##military-experience-of-uk-prime-ministers)
+* [Graph of Military Experience of UK PMs](military-experience#graph-of-military-experience-of-uk-pms)
+
+----
 
 #### Military Experience of US Presidents
 
