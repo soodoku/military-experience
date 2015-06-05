@@ -8,10 +8,5 @@
 * [R Code to generate the graph](mil_plots.R)
 * [Graph](ukmil.pdf)
 
-<<<<<<< HEAD
-#### License
-Released under the [Creative Commons License](https://github.com/soodoku/Military-Experience/blob/master/License.md).
-=======
 ### License
 Released under the [Creative Commons License](License.md).
->>>>>>> origin/master
