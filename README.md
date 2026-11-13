@@ -33,7 +33,7 @@ date; it does not predict a departure date.
 `military_experience` is `1` for military service before first taking office,
 `0` for a negative classification, and blank for unknown. The definition includes
 regular forces, militia, reserves, the Territorial Army and the National Guard.
-It excludes civilian defence administration, school cadet training, and military
+It excludes civilian defense administration, school cadet training, and military
 service that began only after leaving office. It is not a legal definition of
 veteran status and does not imply combat experience.
 
