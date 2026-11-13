@@ -21,7 +21,7 @@ clock: rebuilding the charts does not silently claim a new data review.
 | `legacy_id` | integer or missing | Row ID in the corresponding original CSV. US repeated-election rows are consolidated into the first row for each presidency. New leaders have no legacy ID. |
 
 Regular forces, militia, reserves, the Territorial Army and National Guard count.
-Combat is not required. Civilian defence administration, school cadet training,
+Combat is not required. Civilian defense administration, school cadet training,
 and service beginning only after office do not count. The classification is not
 an assessment of statutory veteran eligibility.
 
